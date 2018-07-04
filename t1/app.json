@@ -1,0 +1,23 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/index/home",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "list":[{
+      "pagePath": "pages/index/index",
+      "text": "text"
+    },
+    {
+      "pagePath": "pages/index/home",
+      "text": "text"
+    }]
+  }
+}

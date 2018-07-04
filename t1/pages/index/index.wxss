@@ -1,0 +1,45 @@
+/**index.wxss**/
+page {
+  background: orange;
+}
+.drawView {
+  text-align: center;
+}
+.winNum {
+  
+}
+.showView {
+  margin-top: 100rpx;
+  height: 20vh;
+  font-size: 60rpx;
+}
+.gestureImgL {
+  float: left;
+  margin-left: 100rpx;
+}
+.strClass {
+  font-size: 40rpx;
+  color: red;
+}
+.gestureImgR {
+  float: right;
+  margin-right: 100rpx;
+}
+.chooseforUserView {
+  margin: 30rpx;
+  height: 50vh;
+  background: #fff;
+}
+.choose-view {
+  margin: 60px 0; 
+  display: inline-block;
+}
+.choose-item {
+  margin: 0 60rpx;
+}
+.againBth {
+  width: 500rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  background-color: orange
+}
